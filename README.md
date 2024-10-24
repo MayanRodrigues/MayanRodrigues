@@ -1,6 +1,6 @@
   # Olá Eu sou Mayan Rodrigues
 -  Estou interessado na areá da programação
--  No momento estou aprendendo **Portugol** pela DevMedia
+-  No momento estou aprendendo **Portugol** pela DevMedia e logo espero começar a estudar JavaScript
 
 <!---
 MayanRodrigues/MayanRodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
